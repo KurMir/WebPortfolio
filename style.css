@@ -1,0 +1,40 @@
+.forHeader {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+    
+    
+}
+
+.margin {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.herooFacebook {
+    color: black;
+}
+
+.herooPicture {
+    border-radius: 4px;
+    width: 400px;
+    height: 400px;
+}
+
+.hobby {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+.myHobbyText{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 64px;
+}
+
